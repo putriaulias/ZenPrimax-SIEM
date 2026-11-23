@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(config|common|worker|install)\.php$|^worker\.lock$">
+  Require all denied
+</FilesMatch>
