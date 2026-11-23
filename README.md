@@ -1,4 +1,4 @@
-# ZenPrimax SIEM Sederhana
+# ZenPrimax SIEM
 
 SIEM laboratorium **PHP Native + MySQL** yang terpisah dari website
 **ZenPrimax Premium Midtrans**. Tujuannya sederhana: membaca log aktivitas,
